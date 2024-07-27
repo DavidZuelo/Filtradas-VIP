@@ -230,11 +230,6 @@ h1 {
 .contenedor-imagen img:hover {
     transform: scale(1.05);
 }
-@media (max-width: 768px) {
-  .contenedor-imagen img:hover {
-   transform: none;
-  }
-
 
 
 
